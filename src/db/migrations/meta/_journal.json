@@ -15,6 +15,13 @@
       "when": 1759163945442,
       "tag": "0001_modern_gargoyle",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1759871480463,
+      "tag": "0002_friendly_pixie",
+      "breakpoints": true
     }
   ]
 }
